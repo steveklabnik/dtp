@@ -15,5 +15,5 @@ The spec is located in the `spec` directory. It is written in [ReStructured Text
 Sample implementation
 ---------------------
 
-There is a sample implementation located in the `spec` directory.
+There is a sample implementation located in the `sample` directory.
 
